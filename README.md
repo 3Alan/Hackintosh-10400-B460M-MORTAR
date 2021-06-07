@@ -1,55 +1,23 @@
-## 不维护了
-
 # Hackintosh-10400-B460M-MORTAR
 ## EFI 
 OpenCore: 0.6.9
 
 macOS version: 11.3.1
 
-##  更新情况
-2021.05.05
-
-- 升级 OpenCore: 0.6.9
-- macOS Big Sur 11.3.1
-
-2021.03.08
-
-- 升级 OpenCore: 0.6.7
-- macOS Big Sur 11.2.2
-
-2021.02.19
-
-- 升级 OpenCore: 0.6.6
-- macOS Big Sur 11.2.1
-
-2021.01.08
-
-- 升级 OpenCore: 0.6.5
-
-2020.12.11
-
-- 升级 OpenCore: 0.6.4
-
-2020.11.5
-
-- 升级 OpenCore: 0.6.3
-
-2020.10.15
-
-+ macOS 10.15.7 (19H2)
+镜像使用了黑果小兵的
 
 ## 硬件配置
 |组件|型号|
 |------|------|
-|主板|微星 B460M MORTAR|
+|主板|微星 B460M MORTAR Wifi|
 |CPU|Intel i5 10400|
 |内存|金士顿骇客神条RGB灯条 8GB * 2 2666MHz|
 |显卡|Intel UHD Graphics 630 |
-|SSD|铠侠 RC10 512GB|
-|电源|振华冰山金蝶战斗版 450W|
+|SSD|铠侠 RC10 512GB * 2|
+|电源|振华LEADEX G 550|
 |声卡|板载Realtek ALC1200|
 |机箱|爱国者 M2 白色|
-|散热|乔思伯CR-1000 + 乔思伯 FR-502-ARGB风扇 * 3|
+|散热|乔思伯CR-1000 白色|
 |网卡|板载Realtek RTL8125B千兆网卡|
 
 ## Bios设置
