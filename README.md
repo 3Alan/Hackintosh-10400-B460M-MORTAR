@@ -1,6 +1,5 @@
-# Hackintosh-10400-B460M-MORTAR
+# Hackintosh-10400-B460M-MORTAR-WIFI
 ## EFI 
-OpenCore: 0.6.9
 
 macOS version: 11.3.1
 
