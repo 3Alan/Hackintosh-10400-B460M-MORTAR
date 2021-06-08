@@ -12,10 +12,9 @@ macOS version: 11.3.1
 |主板|微星 B460M MORTAR Wifi|
 |CPU|Intel i5 10400|
 |内存|金士顿骇客神条RGB灯条 8GB * 2 2666MHz|
-|显卡|Intel UHD Graphics 630 |
+|显卡|Intel UHD Graphics 630（CPU自带核显） |
 |SSD|铠侠 RC10 512GB * 2|
 |电源|振华LEADEX G 550|
-|声卡|板载Realtek ALC1200|
 |机箱|爱国者 M2 白色|
 |散热|乔思伯CR-1000 白色|
 
