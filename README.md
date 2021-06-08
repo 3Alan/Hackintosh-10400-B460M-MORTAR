@@ -18,7 +18,6 @@ macOS version: 11.3.1
 |声卡|板载Realtek ALC1200|
 |机箱|爱国者 M2 白色|
 |散热|乔思伯CR-1000 白色|
-|网卡|板载Realtek RTL8125B千兆网卡|
 
 ## Bios设置
 ![](./images/pic1.png)
@@ -35,10 +34,10 @@ macOS version: 11.3.1
 - [x] 所有USB端口
 - [x] 核显硬件加速
 - [x] 声卡输出
-- [x] 以太网
 - [x] DP 4K输出 
 - [ ] 蓝牙（查找资料好像需要usb定制？（小白不太懂））
 - [ ] wifi（好像有点不太稳定，有时会掉线）
+- [ ] windows和mac时间不同步问题
 
 ### 硬件识别正常
 ![](./images/pic6.png)
