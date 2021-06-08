@@ -4,7 +4,7 @@ OpenCore: 0.6.9
 
 macOS version: 11.3.1
 
-镜像使用了黑果小兵的
+镜像使用了黑果小兵的11.3.1镜像
 
 ## 硬件配置
 |组件|型号|
@@ -37,6 +37,8 @@ macOS version: 11.3.1
 - [x] 声卡输出
 - [x] 以太网
 - [x] DP 4K输出 
+- [ ] 蓝牙（查找资料好像需要usb定制？（小白不太懂））
+- [ ] wifi（好像有点不太稳定，有时会掉线）
 
 ### 硬件识别正常
 ![](./images/pic6.png)
@@ -49,6 +51,3 @@ macOS version: 11.3.1
 
 ### Geekbench 5 跑分
 ![](./images/pic9.png)
-
-### UHD630核显4k显示器DP输出
-![](./images/pic10.png)
